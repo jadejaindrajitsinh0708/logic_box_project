@@ -8,11 +8,17 @@ Range Analyzer – Checks whether numbers in a given range are even or odd and c
 Exit – Exits the program.
 
 Features
-⭐ Generate a right-angle star pattern.
+
+⭐ Generate a right-angle star pattern. 
+
 🔢 Analyze numbers within a given range.
+
 ✅ Identify numbers as Even or Odd.
+
 ➕ Calculate the sum of all numbers in the selected range.
+
 🚪 Exit the program safely.
+
 🔄 Menu-driven program that keeps running until the user chooses Exit.
 
 
@@ -121,16 +127,6 @@ Variables and basic arithmetic
 └── README.md
 ```
 
-Future Improvements
-
-Some possible improvements for this project:
-
-Add more pattern types.
-Add input validation using try-except.
-Handle reversed ranges.
-Add options for different mathematical calculations.
-Improve the user interface.
-Add more number analysis features such as prime numbers and multiples.
 
 
 Author💻
