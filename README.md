@@ -74,5 +74,5 @@ By completing this project, you can learn:
 * How to use VS Code for Python development.
 * How to use Git for version control.
 
-## Author
-Anjali Mehta
+## Author 💻
+indrajit sinh
