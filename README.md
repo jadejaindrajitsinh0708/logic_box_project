@@ -7,6 +7,8 @@ A simple **Python beginner project** that provides two useful features:
 3. 🚪 **Exit** — Program ko safely close karta hai.
 
 ---
+# output
+ ![Program Output](output.png)
 
 ## 📌 Features
 
